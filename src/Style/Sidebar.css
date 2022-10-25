@@ -1,0 +1,7 @@
+.menu--item:hover {
+    cursor: pointer;
+}
+
+.sidebar--item {
+    height: 100%;
+}
